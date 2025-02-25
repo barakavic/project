@@ -6,7 +6,8 @@
 class Car{
     public:
     float x, y; // The cars position
-    float width, height;
+    float width;
+    float height;
     float speed;
     
 
